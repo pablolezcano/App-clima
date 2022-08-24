@@ -4,4 +4,5 @@
 
 ![](https://github.com/pablolezcano/App-clima/blob/gh-pages/images/clima-api.gif?raw=true)
 
+Se utilzó una API para consumir datos necesarios a mostrar.
 
