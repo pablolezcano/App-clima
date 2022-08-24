@@ -2,6 +2,6 @@
 
 Ésta aplicacion está hecha para visualizar el clima según tu posición geográfica.
 
-![](images/clima-api.gif.gif)
+![](https://github.com/pablolezcano/App-clima/blob/gh-pages/images/clima-api.gif?raw=true)
 
 
